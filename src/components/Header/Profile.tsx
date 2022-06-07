@@ -11,15 +11,15 @@ export function Profile({ showProfileData = true }: ProfileProps) {
         <Box marginRight="4" textAlign="right">
           <Text>Elias Gabriel</Text>
           <Text color="gray.300" fontSize="small">
-            elias.gabriel@rocketseat.team
+            gabrielmuller708@gmail.com
           </Text>
         </Box>
       )}
 
       <Avatar
         size="md"
-        name="Elias Gabriel"
-        src="https://github.com/EliasGcf.png"
+        name="Gabriel Muller"
+        src="https://github.com/gabrielmuller1.png"
       />
     </Flex>
   );
